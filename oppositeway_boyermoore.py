@@ -1,8 +1,3 @@
-"""
-name: Johan Azlan
-student ID: 31165001
-
-"""
 import sys
 
 
